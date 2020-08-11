@@ -1,0 +1,37 @@
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.exe.config
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.exe
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.pdb
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.WITDataStore.dll
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.csprojResolveAssemblyReference.cache
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.Form1.resources
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.Properties.Resources.resources
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.csproj.GenerateResource.Cache
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.exe
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.pdb
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.Deployment.Workflow.dll
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+c:\users\miawang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Deployment.Workflow.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.exe.config
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.exe
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.pdb
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.exe
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\TfsBugSta.pdb
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.Build.Workflow.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.Deployment.Workflow.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Deployment.Workflow.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.WITDataStore.dll
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.csprojResolveAssemblyReference.cache
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.Form1.resources
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.Properties.Resources.resources
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Debug\TfsBugSta.csproj.GenerateResource.Cache
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Aspose.Cells.DLL
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.Client.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.ProjectManagement.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Debug\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll

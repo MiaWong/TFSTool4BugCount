@@ -1,0 +1,36 @@
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.exe.config
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.exe
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.pdb
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.Build.Workflow.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.Deployment.Workflow.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.Deployment.Workflow.resources.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\bin\Release\Microsoft.WITDataStore.dll
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.Form1.resources
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.Properties.Resources.resources
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.csproj.GenerateResource.Cache
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.exe
+C:\Users\MiaWang\documents\visual studio 2012\Projects\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.pdb
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.exe.config
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.exe
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.pdb
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.exe
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\TfsBugSta.pdb
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.Build.Workflow.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.Deployment.Workflow.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.Build.Workflow.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.Deployment.Workflow.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.WITDataStore.dll
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.Form1.resources
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.Properties.Resources.resources
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.csproj.GenerateResource.Cache
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.Client.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.Client.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\zh-Hans\Microsoft.TeamFoundation.WorkItemTracking.Client.resources.dll
+D:\工具代码\TfsBugSta\TfsBugSta\obj\Release\TfsBugSta.csprojResolveAssemblyReference.cache
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Microsoft.TeamFoundation.ProjectManagement.dll
+D:\工具代码\TfsBugSta\TfsBugSta\bin\Release\Aspose.Cells.DLL
